@@ -1,4 +1,4 @@
-name: IPQ60XX-LibWrt
+name: IPQ60XX-LibWrt-znm2
 
 on:
   workflow_dispatch:
